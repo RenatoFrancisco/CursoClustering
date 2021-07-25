@@ -1,1 +1,1 @@
-# CursoClustering
+# Clustering extraindo padrões de dados
